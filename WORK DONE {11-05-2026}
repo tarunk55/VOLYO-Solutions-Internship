@@ -1,0 +1,33 @@
+📅 Date: 11 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 7: SQL – DQL & Filtering
+
+Topic:
+SQL Data Query Language (DQL) and Data Filtering
+
+Learning Objectives:
+
+Understand how to retrieve data using SELECT statements
+Learn filtering techniques using WHERE conditions
+Practice logical operators such as AND, OR, and NOT
+Explore filtering methods using BETWEEN, IN, and LIKE
+Learn sorting and limiting results with ORDER BY and LIMIT
+Understand the use of DISTINCT to remove duplicate records
+
+Activities / Deliverables:
+
+Write and execute 15 different SELECT queries on VolyoDB
+Practice filtering records with multiple conditions
+Use pattern matching with LIKE operator
+Sort records in ascending and descending order
+Retrieve limited and unique records using LIMIT and DISTINCT
+Complete a mini quiz based on SQL syntax and query writing
+
+Tools / Tech:
+
+MySQL 8
+MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

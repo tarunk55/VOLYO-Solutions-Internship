@@ -1,0 +1,30 @@
+📅 Date: 8 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 5: SQL – DDL (CREATE / ALTER / DROP)
+
+Topic:
+SQL Data Definition Language (DDL)
+
+Learning Objectives:
+
+Understand DDL commands used to define and manage database structures
+Learn how to create, alter, and delete databases and tables
+Understand different data types in SQL
+Learn constraints such as NOT NULL, UNIQUE, and DEFAULT
+
+Activities / Deliverables:
+
+Create a database named VolyoDB
+Build 5 tables using different SQL data types
+Apply constraints like NOT NULL, UNIQUE, and DEFAULT
+Practice CREATE, ALTER, and DROP commands
+Test table modifications and schema updates using SQL queries
+
+Tools / Tech:
+
+MySQL 8
+MySQL Command Line Interface (CLI)
+
+━━━━━━━━━━━━━━━━━━━━━━

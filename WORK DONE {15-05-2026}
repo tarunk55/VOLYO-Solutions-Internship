@@ -1,0 +1,32 @@
+📅 Date: 15 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 11: Normalisation – 1NF & 2NF
+
+Topic:
+Database Normalisation, Data Anomalies, First Normal Form (1NF) and Second Normal Form (2NF)
+
+Learning Objectives:
+
+Understand the purpose of database normalisation
+Learn about data anomalies such as insert, update, and delete anomalies
+Understand the rules of First Normal Form (1NF) and Second Normal Form (2NF)
+Learn how normalization improves database structure and reduces redundancy
+Practice organizing data into efficient relational tables
+
+Activities / Deliverables:
+
+Analyse a denormalised employee table
+Identify redundancy and data anomalies in the table
+Convert the table into First Normal Form (1NF)
+Further normalize the structure into Second Normal Form (2NF)
+Document each normalization step with explanations and diagrams
+Verify the final table structure in MySQL
+
+Tools / Tech:
+
+MySQL
+Draw.io
+
+━━━━━━━━━━━━━━━━━━━━━━

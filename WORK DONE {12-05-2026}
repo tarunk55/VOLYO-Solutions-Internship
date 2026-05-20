@@ -1,0 +1,30 @@
+📅 Date: 12 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 8: SQL – Aggregate Functions & GROUP BY
+
+Topic:
+SQL Aggregate Functions and GROUP BY Clause
+
+Learning Objectives:
+
+Understand aggregate functions such as COUNT, SUM, AVG, MIN, and MAX
+Learn how to group records using GROUP BY
+Understand the purpose of the HAVING clause
+Learn the difference between WHERE and HAVING conditions
+Analyze and summarize data using SQL queries
+
+Activities / Deliverables:
+
+Create a sales summary report using aggregate functions
+Calculate totals, averages, minimum, and maximum values from sample data
+Group records based on categories or departments
+Filter grouped results using the HAVING clause
+Practice combining GROUP BY with aggregate functions in queries
+
+Tools / Tech:
+
+MySQL 8
+
+━━━━━━━━━━━━━━━━━━━━━━

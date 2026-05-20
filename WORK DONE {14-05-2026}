@@ -1,0 +1,30 @@
+📅 Date: 14 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 10: SQL – Subqueries & Views
+
+Topic:
+SQL Subqueries and Views
+
+Learning Objectives:
+
+Understand nested and correlated subqueries
+Learn how subqueries are used inside SELECT, WHERE, and FROM clauses
+Understand the purpose and advantages of SQL Views
+Learn how to create, use, and remove views in a database
+Explore real-world use cases for reusable query views
+
+Activities / Deliverables:
+
+Rewrite 3 existing JOIN queries as subqueries
+Practice nested and correlated subquery examples
+Create 3 reusable views in VolyoDB
+Test and verify outputs from created views
+Use CREATE VIEW and DROP VIEW commands for view management
+
+Tools / Tech:
+
+MySQL 8
+
+━━━━━━━━━━━━━━━━━━━━━━

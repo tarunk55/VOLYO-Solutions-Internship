@@ -1,0 +1,29 @@
+📅 Date: 7 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 4: Relational Model & Keys
+
+Topic:
+Relational Model and Types of Keys
+
+Learning Objectives:
+
+Understand the relational model and how data is stored in tables
+Learn about tables, tuples, attributes, and domains
+Understand different types of keys: Primary Key, Foreign Key, Candidate Key, and Super Key
+Learn how relationships between tables are maintained using keys
+
+Activities / Deliverables:
+
+Convert the Day 3 ER diagram into a relational schema
+Create tables based on entities and relationships
+Identify and define all key types in each table
+Understand how foreign keys connect related tables
+Prepare notes explaining the purpose of each key type
+
+Tools / Tech:
+
+MySQL Workbench (for schema design and table creation)
+
+━━━━━━━━━━━━━━━━━━━━━━

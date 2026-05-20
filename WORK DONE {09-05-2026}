@@ -1,0 +1,31 @@
+📅 Date: 9 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 6: SQL – DML (INSERT / UPDATE / DELETE)
+
+Topic:
+SQL Data Manipulation Language (DML)
+
+Learning Objectives:
+
+Understand how to insert, update, and delete data in database tables
+Learn the difference between single-row and multiple-row insertion
+Practice updating records using conditions
+Understand safe deletion practices to avoid accidental data loss
+
+Activities / Deliverables:
+
+Populate all 5 tables created in VolyoDB with sample data
+Write and execute 10 DML statements
+Practice INSERT for single and multiple records
+Use UPDATE with WHERE conditions to modify specific records
+Use DELETE queries safely on selected rows
+Verify all changes using SELECT statements
+
+Tools / Tech:
+
+MySQL 8
+MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

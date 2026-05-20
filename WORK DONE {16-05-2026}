@@ -1,0 +1,31 @@
+📅 Date: 16 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 12: Normalisation – 3NF & BCNF
+
+Topic:
+Third Normal Form (3NF) and Boyce-Codd Normal Form (BCNF)
+
+Learning Objectives:
+
+Understand the rules and purpose of Third Normal Form (3NF)
+Learn about Boyce-Codd Normal Form (BCNF) and its importance
+Understand functional dependencies and how they affect database design
+Learn how advanced normalization reduces redundancy and improves consistency
+Practice creating well-structured relational schemas
+
+Activities / Deliverables:
+
+Continue the normalization process from previous tables
+Convert the database structure into 3NF and BCNF
+Identify and resolve functional dependency issues
+Draw the final normalized schema diagram
+Verify relationships and table structures in MySQL Workbench
+Document all normalization steps and observations
+
+Tools / Tech:
+
+MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

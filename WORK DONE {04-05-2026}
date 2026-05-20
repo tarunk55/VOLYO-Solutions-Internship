@@ -1,0 +1,30 @@
+📅 Date: 4 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 1: Introduction to DBMS
+
+Topic:
+Introduction to Database Management Systems (DBMS)
+
+Learning Objectives:
+
+Understand what a DBMS is and why it is used
+Learn how DBMS is better than traditional file systems (data redundancy, security, consistency)
+Explore different types of DBMS (Relational, NoSQL, etc.)
+See real-world examples of databases used in apps and websites
+
+Activities / Deliverables:
+
+Read basic concepts of DBMS and prepare short notes
+Install MySQL 8 on your system
+Install MySQL Workbench for GUI access
+Explore the interface (create a connection, view schemas, basic navigation)
+Write a summary of what you learned
+
+Tools / Tech:
+
+MySQL 8 (Database server)
+MySQL Workbench (Database GUI tool)
+
+━━━━━━━━━━━━━━━━━━━━━━

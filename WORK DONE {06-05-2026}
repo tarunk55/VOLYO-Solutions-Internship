@@ -1,0 +1,30 @@
+📅 Date: 6 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 3: Entity-Relationship (ER) Model
+
+Topic:
+Entity-Relationship (ER) Model
+
+Learning Objectives:
+
+Understand entities, attributes, and relationships
+Learn about cardinality (one-to-one, one-to-many, many-to-many)
+Understand weak entities and their role
+Learn ER diagram notation and how to represent data visually
+
+Activities / Deliverables:
+
+Design an ER diagram for a Library Management System from scratch
+Identify entities (Books, Members, Librarian, etc.)
+Define attributes and relationships between entities
+Apply proper ER notation and cardinality
+Create a clean and well-structured diagram
+
+Tools / Tech:
+
+Draw.io (for ER diagram creation)
+MySQL Workbench (for visual modeling and practice)
+
+━━━━━━━━━━━━━━━━━━━━━━

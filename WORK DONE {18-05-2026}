@@ -1,0 +1,31 @@
+📅 Date: 18 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 13: Indexes & Query Optimisation
+
+Topic:
+Indexes and SQL Query Optimisation
+
+Learning Objectives:
+
+Understand what indexes are and why they are used in databases
+Learn the difference between clustered and non-clustered indexes
+Understand how indexes improve query performance
+Learn how to create indexes using SQL commands
+Explore the basics of the EXPLAIN statement for query analysis
+
+Activities / Deliverables:
+
+Add indexes to important tables in VolyoDB
+Run queries before and after indexing
+Use EXPLAIN to analyse query execution plans
+Compare query performance and note cost changes
+Document observations on how indexing affects speed and efficiency
+
+Tools / Tech:
+
+MySQL 8
+EXPLAIN Statement
+
+━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,30 @@
+📅 Date: 13 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 9: SQL – Joins
+
+Topic:
+SQL Joins and Table Relationships
+
+Learning Objectives:
+
+Understand how joins are used to combine data from multiple tables
+Learn different types of joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, and CROSS JOIN
+Understand how relationships between tables work using keys
+Learn practical use cases of joins in relational databases
+
+Activities / Deliverables:
+
+Write and execute 10 JOIN queries on a 3-table schema
+Practice retrieving related data from multiple tables
+Compare results of different join types
+Visualize and draw join result sets on paper or diagrams
+Understand how missing and matching records appear in joins
+
+Tools / Tech:
+
+MySQL 8
+Draw.io
+
+━━━━━━━━━━━━━━━━━━━━━━

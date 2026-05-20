@@ -1,0 +1,33 @@
+📅 Date: 19 May 2026
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Day 14: Transactions & ACID Properties
+
+Topic:
+Database Transactions and ACID Properties
+
+Learning Objectives:
+
+• Understand database transactions and their importance
+• Learn the four ACID properties: Atomicity, Consistency, Isolation, and Durability
+• Understand how transactions maintain data reliability and integrity
+• Learn how to use BEGIN, COMMIT, and ROLLBACK statements in SQL
+• Explore real-world examples such as banking transactions
+
+Activities / Deliverables:
+
+• Simulate a bank transfer transaction in MySQL
+• Use BEGIN to start a transaction
+• Perform debit and credit operations between accounts
+• Intentionally trigger a failure during the transaction
+• Use ROLLBACK to undo incomplete changes
+• Verify data consistency after rollback and successful commit
+• Document transaction flow and observations
+
+Tools / Tech:
+
+• MySQL 8
+• MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━
