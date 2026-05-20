@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📌 READ ME — Volyo Solutions Pvt Ltd | Official Discord Guide
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -34,3 +35,6 @@ EOD UPDATE — post in #task-completed by 6:30 PM IST ✅ Completed: ⏳ Pending
 🕘 WORKING HOURS & EXPECTATIONS 🕘 Working Hours: 9:00 AM – 6:00 PM IST | Mon – Fri 📋 Morning Log: Post daily tasks by 10:00 AM IST 🌙 EOD Update: Post completed tasks by 6:30 PM IST 🔴 On Leave: Notify manager in advance & set status to Away 📅 Weekend Work: Requires prior manager approval
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Volyo Solutions Pvt Ltd · Internal Discord Guide · v1.0
+=======
+# VOLYO-Solutions-Internship
+>>>>>>> 25f12a0052c40fb598fe9c2ddcd1e2ff47df634f
