@@ -1,0 +1,24 @@
+Day 15: Stored Procedures & Functions
+
+Topic:
+Stored Procedures and User-Defined Functions in SQL
+
+Learning Objectives:
+
+Understand the purpose of stored procedures and functions in databases
+Learn how to create and execute stored procedures using SQL
+Understand IN and OUT parameters in procedures
+Learn how user-defined functions work and where they are used
+Practice using CALL syntax for executing procedures
+
+Activities / Deliverables:
+
+Create a stored procedure for employee salary increment
+Use IN/OUT parameters in the procedure
+Write a user-defined function for age calculation
+Execute and test procedures and functions with sample data
+Document syntax, outputs, and observations from execution
+
+Tools / Tech:
+
+MySQL 8
