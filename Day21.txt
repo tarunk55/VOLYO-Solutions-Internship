@@ -1,0 +1,27 @@
+DAY 21 - Introduction to PostgreSQL
+
+Topic Overview:
+Introduction to PostgreSQL
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 21 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to Introduction to PostgreSQL.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 21 - Introduction to PostgreSQL"
+git push origin main
+
+Interview Questions:
+1. Explain Introduction to PostgreSQL.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

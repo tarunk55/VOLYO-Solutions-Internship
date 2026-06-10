@@ -1,0 +1,27 @@
+DAY 27 - SQLite CRUD & Integration
+
+Topic Overview:
+SQLite CRUD & Integration
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 27 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to SQLite CRUD & Integration.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 27 - SQLite CRUD & Integration"
+git push origin main
+
+Interview Questions:
+1. Explain SQLite CRUD & Integration.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

@@ -1,0 +1,27 @@
+DAY 25 - MySQL vs PostgreSQL Comparison
+
+Topic Overview:
+MySQL vs PostgreSQL Comparison
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 25 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to MySQL vs PostgreSQL Comparison.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 25 - MySQL vs PostgreSQL Comparison"
+git push origin main
+
+Interview Questions:
+1. Explain MySQL vs PostgreSQL Comparison.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

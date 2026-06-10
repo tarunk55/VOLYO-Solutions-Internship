@@ -1,0 +1,27 @@
+DAY 31 - Introduction to NoSQL
+
+Topic Overview:
+Introduction to NoSQL
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 31 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to Introduction to NoSQL.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 31 - Introduction to NoSQL"
+git push origin main
+
+Interview Questions:
+1. Explain Introduction to NoSQL.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

@@ -1,0 +1,27 @@
+DAY 20 - MySQL Administration with phpMyAdmin
+
+Topic Overview:
+MySQL Administration with phpMyAdmin
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 20 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to MySQL Administration with phpMyAdmin.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 20 - MySQL Administration with phpMyAdmin"
+git push origin main
+
+Interview Questions:
+1. Explain MySQL Administration with phpMyAdmin.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

@@ -1,0 +1,27 @@
+DAY 26 - Introduction to SQLite
+
+Topic Overview:
+Introduction to SQLite
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 26 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to Introduction to SQLite.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 26 - Introduction to SQLite"
+git push origin main
+
+Interview Questions:
+1. Explain Introduction to SQLite.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

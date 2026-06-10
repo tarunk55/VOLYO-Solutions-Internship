@@ -1,0 +1,27 @@
+DAY 18 - Backup & Recovery Basics
+
+Topic Overview:
+Backup & Recovery Basics
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 18 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to Backup & Recovery Basics.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 18 - Backup & Recovery Basics"
+git push origin main
+
+Interview Questions:
+1. Explain Backup & Recovery Basics.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

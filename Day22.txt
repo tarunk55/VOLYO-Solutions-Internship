@@ -1,0 +1,27 @@
+DAY 22 - PostgreSQL DDL & DML Basics
+
+Topic Overview:
+PostgreSQL DDL & DML Basics
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 22 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to PostgreSQL DDL & DML Basics.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 22 - PostgreSQL DDL & DML Basics"
+git push origin main
+
+Interview Questions:
+1. Explain PostgreSQL DDL & DML Basics.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes

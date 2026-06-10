@@ -1,0 +1,27 @@
+DAY 23 - PostgreSQL Queries & Differences
+
+Topic Overview:
+PostgreSQL Queries & Differences
+
+Learning Objectives:
+- Understand core concepts
+- Learn practical commands
+- Perform hands-on exercises
+
+Notes:
+This file contains study notes for Day 23 of the DBA Internship Curriculum.
+
+Practical Task:
+Complete the activities related to PostgreSQL Queries & Differences.
+
+Git Commands:
+git add .
+git commit -m "Completed Day 23 - PostgreSQL Queries & Differences"
+git push origin main
+
+Interview Questions:
+1. Explain PostgreSQL Queries & Differences.
+2. What are its real-world use cases?
+3. What are the advantages and limitations?
+
+End of Notes
