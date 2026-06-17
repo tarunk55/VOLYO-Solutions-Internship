@@ -1,0 +1,10 @@
+DAY 32 - MongoDB Installation & Basics
+
+Topic Overview:
+MongoDB Installation & Basics
+
+Learning Objectives:
+- Understand what MongoDB is
+- Learn documents and collections
+- Understand BSON format
+- Install MongoDB and MongoDB Compass
